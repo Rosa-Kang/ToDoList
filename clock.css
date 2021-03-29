@@ -39,8 +39,11 @@ body {
     font-family: 'Quicksand', sans-serif;
 }
 
-#input {
-    color: white;
+::placeholder {
+    font-size: 1.6vw;
+    color: whitesmoke;
+    font-family: 'Quicksand', sans-serif;
+    border-bottom: whitesmoke;
 }
 .clicked {
     color: #7f8c8d;
