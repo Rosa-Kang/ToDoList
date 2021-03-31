@@ -40,7 +40,6 @@ function loadName() {
 }
 
 function init() {
-  localStorage.clear();
   loadName();
 }
 
