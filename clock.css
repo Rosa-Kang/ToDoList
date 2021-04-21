@@ -14,6 +14,11 @@ header > .clock > span {
     letter-spacing: 2px;
 }
 main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 20px;
     text-align: center;
     position: absolute;
     top: 50%;
@@ -31,6 +36,12 @@ h4{
 }
 .btn {
     cursor: pointer;
+}
+
+li{
+    font-size: 1.5em;
+    padding: 9px 0px;
+    list-style-type: none;
 }
 
 body {
