@@ -28,7 +28,7 @@ main {
     padding: 30px;
     box-sizing: border-box;
     width: 95vw;
-    height: calc(90vh - 80px - 60px);
+    height: calc(84vh - 80px - 60px);
 }
 
 h4{
